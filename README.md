@@ -5,6 +5,7 @@ In this repository, I discuss the basics of statistics such as mean, variance, o
 * Statistics_Fundamentals_3_Data_visualization.ipnyb
 * Statistics_Fundamentals_4_Distributions.ipnyb
 * Statistics_Fundamentals_5_Regression.ipnyb
+* Statistics_Fundamentals_6_Classification.ipnyb
 
 ### Required packages:
 * [numpy](https://numpy.org/)
