@@ -1,5 +1,5 @@
 # Basics of Statistics in Python.
-In this repository, I discuss the basics of statistics such as mean, variance, outliers and etc which are calculated from a real datasets or synthetic data. There are two jupyter notebooks which you can follow as number 1, 2, 3, and etc. The names are: 
+In this repository, I discuss the basics of statistics such as mean, variance, outliers and etc which are calculated from a real datasets or synthetic data. There are 6 jupyter notebooks which you can follow as number 1, 2, 3, and etc. The names are: 
 * Statistics_Fundamentals_1_Basic_Definitions.ipnyb
 * Statistics_Fundamentals_2_Data_and_Zscores.ipnyb
 * Statistics_Fundamentals_3_Data_visualization.ipnyb
